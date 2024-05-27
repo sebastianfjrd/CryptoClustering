@@ -32,3 +32,5 @@ Determined the Weights of Each Feature on Each Principal Component:
 Created a DataFrame to illustrate the weights of each feature for each principal component.
 Identified features with significant positive or negative influence on each component.
 Overall, this project effectively applied K-means clustering and PCA techniques to classify cryptocurrencies based on their price fluctuations. By optimizing clusters and identifying feature weights on principal components, valuable insights into the underlying structure of the cryptocurrency market were obtained. This project serves as a practical demonstration of leveraging unsupervised learning techniques to gain insights from complex financial datasets.
+
+It was a great Module to work on.
